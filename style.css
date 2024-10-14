@@ -13,6 +13,7 @@ body{
   font-size:15px;
   margin-left: 20px;
   padding-top: 10px;
+  position: absolute;
 }
 #text1{
   float:right;
@@ -20,6 +21,19 @@ body{
 }
 #solid{
   margin-left: 500px;
+}
+#browse{
+  position: absolute;
+  border-radius: 50%;
+  color: azure;
+margin-left:320px;
+top:20px;
+}
+#search{
+  border-radius: 50%;
+  position: absolute;
+  margin-left: 40px;
+  top: 15px;
 }
 #div2{
   background-color:rgb(22, 22, 22);
@@ -145,6 +159,7 @@ margin:5px ;
   margin-top: 25px;
   font-size: 15px;
 }
+
 #pritom{
   border-radius: 50%;
   margin-left: 20px;
@@ -171,12 +186,12 @@ h2{
 #div14{
   display: inline-block;
   vertical-align: top;
-  margin-left: 100px;
+  margin-left:40px;
 }
-#div15, #div16{
+#div15, #div16, #div17{
   display: inline-block;
   vertical-align: top;
-  margin-left: 90px;
+  margin-left: 70px;
 }
 
 
